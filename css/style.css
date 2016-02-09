@@ -1,0 +1,135 @@
+/* grid-system */
+*{
+font-family: sans-serif;
+}
+
+header{
+	background: gray;
+}
+
+
+.logo {
+ 	width: 80px;
+	height: 80px;
+}
+
+nav ul li {
+	list-style-type: none;
+	font-size: 14px;
+	text-transform: uppercase;
+	color: white;
+	display: inline;
+	padding: 2%;
+	margin-left:6px; 
+
+}	
+
+ul{
+margin-top: 30px;	
+}
+
+.best{
+	background: #F2F2F2;
+	padding-top: 20px; 
+	padding-bottom: 15px;
+	border-bottom: solid#D7D4D4  2px;	
+}
+
+
+.width-100{  /* ancho de imagenes */
+	width: 100%;
+}
+
+.latest{
+	margin-bottom: 10px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.tiny{
+	font-size: 12px;
+}
+
+.subrayado{
+text-decoration:none;   	
+}
+
+
+.borde{
+	border: #AEA8A8 3px double;
+}
+
+.thumbs{   /* ancho de thumbs*/
+ width: 120%;
+ height: 120%;
+ margin-top: 25px;
+ position: relative;
+}
+
+.episodes-apps{
+	background: #FFFBFB;	
+}
+
+.suscribe ul li {
+	list-style-type: none;
+	font-size: 14px;
+	float: right;
+	padding: 1%;
+
+}
+.inline{
+	display: inline;
+}
+
+/*widgets*/
+.suscribe{
+margin-top: 2%;
+}
+
+.gris{
+color: #535151;	
+}
+
+.bebe{  /*tamaño de los iconos widgets*/
+ width: 5%;
+ height: 5%;	
+}
+
+.hr-suscribe{
+background-color: #AFA6A6;
+height: 2px;
+width: 100%;
+}
+
+footer{
+background: #726E6E;	
+}
+
+/*Párrafo de footer*/
+.rights{
+margin-top: 3%;
+margin-bottom: 3%;
+color: white;
+}
+
+.read-more{
+color: #D1C6C6;	
+}
+
+.pie{
+text-align: center;
+color:#D1C6C6;
+margin-bottom:3%; 
+}
+
+.pieLetra{
+font-size: 11px;
+}
+
+.pieLetraI{
+font-size: 10px;
+}
+
+
